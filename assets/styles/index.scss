@@ -4,3 +4,14 @@ $icon-font-path: '~bootstrap-sass/assets/fonts/bootstrap/';
 @import './font-awesome/css/font-awesome.min.css';
 @import './css/bootstrap.min.css';
 @import './css/landing-page.css';
+
+.skill-icons > li {
+  display: inline-block;
+  list-style: none;
+  padding: 25px;
+  text-align: center;
+}
+
+.iconstyle > i {
+  font-size: 3em;
+}
